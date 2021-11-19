@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Unrestricted -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Unrestricted -File ""C:\Users\jamesc\OneDrive\GitHub\personal_scripts\update.ps1""' -Verb RunAs}";
